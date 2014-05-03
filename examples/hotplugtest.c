@@ -101,4 +101,6 @@ int main(int argc, char *argv[])
 	}
 
 	libusb_exit (NULL);
+
+	return 0;
 }

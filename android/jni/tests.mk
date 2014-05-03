@@ -18,7 +18,7 @@
 
 LOCAL_PATH:= $(call my-dir)
 LIBUSB_ROOT_REL:= ../..
-LIBUSB_ROOT_ABS:= $(LOCAL_PATH)/../..
+LIBUSB_ROOT_ABS:= $(LOCAL_PATH)/../../libusb
 
 # testlib
 
